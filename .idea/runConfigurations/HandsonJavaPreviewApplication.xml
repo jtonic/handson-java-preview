@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HandsonJavaPreviewApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="handson-java-preview" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="ro.jtonic.handson.springboot.javapreview.handsonjavapreview.HandsonJavaPreviewApplication" />
+    <option name="VM_PARAMETERS" value="--enable-preview" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
