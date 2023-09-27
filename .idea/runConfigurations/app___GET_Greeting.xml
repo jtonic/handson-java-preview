@@ -1,5 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="app | GET Greeting" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" nameIsGenerated="true" path="$PROJECT_DIR$/companion/app.http" requestIdentifier="GET Greeting" runType="Run single request">
-    <method v="2" />
-  </configuration>
-</component>

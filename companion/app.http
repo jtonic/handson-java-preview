@@ -1,3 +1,7 @@
 
-### GET Greeting
-GET http://localhost:8080/greeting
+
+### GET Greeting (invalid emty name)
+GET http://localhost:8080/greeting?name=
+
+### GET Greeting (valid name)
+GET http://localhost:8080/greeting?name=Tony
